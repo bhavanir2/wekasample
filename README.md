@@ -1,1 +1,1 @@
-# wekasample
+# wekasample arff file & Knowledgeflow
